@@ -4,5 +4,4 @@ This app is similar to Trello or JIRA in that it is an easy to use project manag
 
 Below is a screenshot of one of the project Boards. This application can be accessed at https://brephelps.github.io/mello-frontend/
 
-<img src = "/assets/Images/mello.png" />
-
+![Alt text](/assets/Images/mello.png?raw=true)
